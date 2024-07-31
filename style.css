@@ -233,7 +233,7 @@ section.intro img {
 .offer-item:nth-child(2){
     background-size: cover;
     background-position: center;
-    background-image: url(/images/bmw3.webp);
+    background-image: url(images/bmw3.webp);
     margin:0 20px;
     transition: transform 0.5s;
 }
