@@ -298,7 +298,7 @@ section.intro img {
     font-size: 30px;
 }
 .change-icon{
-    background-image: url(/images/service-icon.png);
+    background-image: url(service-icon.png);
     height: 64px;
     background-repeat: no-repeat;
 }
